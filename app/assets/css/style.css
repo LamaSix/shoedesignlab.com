@@ -399,6 +399,8 @@ textarea {
     margin: 0 auto; }
     .header .logo a {
       border: none; }
+      .header .logo a img {
+        width: 100%; }
 
 .main {
   width: 80%;
