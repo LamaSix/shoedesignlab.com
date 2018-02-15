@@ -20,6 +20,8 @@
 
   $(function () {
     changeBackgroundColor();
+
+    $('.logo').width($(window).height())
   });
 
 })(jQuery, window, document);
